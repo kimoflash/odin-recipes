@@ -1,0 +1,17 @@
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+.page-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+ul.list {
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffebcd;
+}
