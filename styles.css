@@ -7,6 +7,33 @@ body {
     text-align: center;
 }
 
+.img-block {
+    background-color: #cccccc;
+    background-image: linear-gradient(#eebd89, #d13abd);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+.img-text {
+    text-align: center;
+    color: white;
+}
+
+.img-text.bold {
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.list {
+    font-size: medium;   
+}
+
 ul.list {
     font-size: 30px;
     text-align: center;
